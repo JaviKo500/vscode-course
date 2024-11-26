@@ -10,6 +10,9 @@
 //*
 
 // Crear un arreglo con los días de la semana
+const DAYS = ['lunes','martes','miércoles','jueves','viernes','sábado','domingo',];
+const DAYS_2 = ['lunes','martes','miércoles','jueves','viernes','sábado','domingo',];
+
 lunes
 martes
 miércoles
